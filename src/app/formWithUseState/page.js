@@ -47,7 +47,7 @@ export default function Home() {
   return (
     <div>
       <Container size="500px">
-        <Title italic align="center" color="pink">
+        <Title italic align="center" color="grape">
           Register CMU Marathon 🥈
         </Title>
         <Stack spacing="sm">
